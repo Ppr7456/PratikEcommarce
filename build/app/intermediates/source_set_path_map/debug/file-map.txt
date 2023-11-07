@@ -1,0 +1,12 @@
+com.example.pratik_ecommrace.app-jetified-window-1.0.0-beta04-0 /Users/pratikgoswami/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.pratik_ecommrace.app-jetified-annotation-experimental-1.1.0-1 /Users/pratikgoswami/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.pratik_ecommrace.app-core-1.6.0-2 /Users/pratikgoswami/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.pratik_ecommrace.app-jetified-window-java-1.0.0-beta04-3 /Users/pratikgoswami/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.pratik_ecommrace.app-debug-4 /Users/pratikgoswami/Flutter Projects/pratik_ecommrace/android/app/src/debug/res
+com.example.pratik_ecommrace.app-main-5 /Users/pratikgoswami/Flutter Projects/pratik_ecommrace/android/app/src/main/res
+com.example.pratik_ecommrace.app-pngs-6 /Users/pratikgoswami/Flutter Projects/pratik_ecommrace/build/app/generated/res/pngs/debug
+com.example.pratik_ecommrace.app-resValues-7 /Users/pratikgoswami/Flutter Projects/pratik_ecommrace/build/app/generated/res/resValues/debug
+com.example.pratik_ecommrace.app-rs-8 /Users/pratikgoswami/Flutter Projects/pratik_ecommrace/build/app/generated/res/rs/debug
+com.example.pratik_ecommrace.app-mergeDebugResources-9 /Users/pratikgoswami/Flutter Projects/pratik_ecommrace/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.pratik_ecommrace.app-mergeDebugResources-10 /Users/pratikgoswami/Flutter Projects/pratik_ecommrace/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.pratik_ecommrace.app-merged_res-11 /Users/pratikgoswami/Flutter Projects/pratik_ecommrace/build/app/intermediates/merged_res/debug
